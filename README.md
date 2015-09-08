@@ -22,7 +22,7 @@
         "Bourbone with": {
           "Neat",
           "Bitters",
-          "Refills"
+          "Refills",
         },
         "PostCSS",
       },
@@ -34,7 +34,7 @@
       "HTML5 Forms",
       "Microformats",
       "Microdata",
-      "Base64 images"
+      "Base64 images",
     },
     "CSS3 features, include": {
       "CSS3 Animations",
@@ -51,8 +51,10 @@
       "WP support",
     },
     "Site performance optimization with": {
-      "Content preload",
-      "Social buttons speed optimizations"
+      "CSS Sprites",
+      "LazyLoad",
+      "AJAX Content preload",
+      "Social buttons speed optimizations",
     },
     "Responsive design including": {
       "Retina support",
@@ -61,13 +63,13 @@
       "Custom Post Types",
       "Taxonomies",
       "Metaboxes",
-      "Hooks"
+      "Hooks",
     },
     "Javascript and": {
       "Ajax",
       "jQuery",
       "jQueryUI",
-      "JS animations"
+      "JS animations",
     },
     "and some other features including": {
       "XML",
